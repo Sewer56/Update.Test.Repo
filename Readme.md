@@ -1,2 +1,1 @@
-Nothing to see here :)
-Apart from GitHub Releases.
+This is a Test Repository for testing `Sewer56.Update.Resolvers.GitHub.GitHubPackageResolver` for `Sewer56.Update`.
